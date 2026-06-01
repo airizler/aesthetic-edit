@@ -1,0 +1,12 @@
+title: The Aesthetic Edit
+description: Curated recommendations for your tech workspace, home decor, and daily style.
+url: "https://yourusername.github.io" # Update this to your GitHub URL or custom domain
+author: Sourabh
+timezone: Asia/Kolkata
+
+# These native plugins automatically handle SEO, Pinterest Rich Pins, and Sitemaps
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+permalink: /:categories/:title/

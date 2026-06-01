@@ -1,0 +1,42 @@
+:root {
+  --bg: #F9F9F9;
+  --surface: #FFFFFF;
+  --text: #111111;
+  --text-muted: #666666;
+  --accent: #E60023; /* Pinterest Red */
+  --border: #EFEFEF;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+a { color: inherit; text-decoration: none; }
+.container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+
+/* Header & Nav */
+.header { background: var(--surface); padding: 20px 0; border-bottom: 1px solid var(--border); margin-bottom: 40px; }
+.header-inner { display: flex; justify-content: space-between; align-items: center; }
+.logo { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.5px; }
+.nav-links a { margin-left: 20px; font-weight: 500; font-size: 0.95rem; }
+.nav-links a:hover { color: var(--accent); }
+
+/* Grid Layout for Posts */
+.post-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 30px; margin-top: 20px; }
+.card { background: var(--surface); border-radius: 16px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.04); transition: transform 0.2s; border: 1px solid var(--border); }
+.card:hover { transform: translateY(-5px); }
+.card-img { width: 100%; height: 200px; object-fit: cover; }
+.card-content { padding: 20px; }
+.card-category { font-size: 0.8rem; text-transform: uppercase; color: var(--accent); font-weight: 700; }
+.card-title { font-size: 1.2rem; margin: 8px 0; line-height: 1.3; }
+
+/* Article Pages */
+.article-container { max-width: 800px; margin: 0 auto; background: var(--surface); padding: 40px; border-radius: 16px; }
+.article-header { text-align: center; margin-bottom: 30px; }
+.article-meta { color: var(--text-muted); font-size: 0.9rem; margin-top: 10px; }
+.article-content h2 { margin: 30px 0 15px; font-size: 1.5rem; }
+.article-content p { margin-bottom: 20px; }
+.disclosure-box { background: #FFF3F4; padding: 15px; border-radius: 8px; font-size: 0.9rem; margin-bottom: 30px; color: #880015; }
+
+/* Footer */
+.footer { text-align: center; padding: 40px 0; margin-top: 60px; border-top: 1px solid var(--border); font-size: 0.9rem; color: var(--text-muted); }
+.footer-links { margin-bottom: 10px; }
+.footer-links a { margin: 0 10px; }

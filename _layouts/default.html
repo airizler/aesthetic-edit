@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% seo %}
+  <meta name="pinterest-rich-pin" content="true">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container header-inner">
+      <a href="/" class="logo">{{ site.title }}</a>
+      <nav class="nav-links">
+        <a href="/category/techizz">Techizz</a>
+        <a href="/category/home-decor-dining-diy">Home Decor Dining DIY</a>
+        <a href="/category/fashion">Fashion Zone</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-links">
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/disclosure">Affiliate Disclosure</a>
+        <a href="/disclaimer">Disclaimer</a>
+        <a href="/terms">Terms</a>
+      </div>
+      <p>&copy; 2026 {{ site.title }}. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>

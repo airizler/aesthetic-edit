@@ -40,3 +40,40 @@ a { color: inherit; text-decoration: none; }
 .footer { text-align: center; padding: 40px 0; margin-top: 60px; border-top: 1px solid var(--border); font-size: 0.9rem; color: var(--text-muted); }
 .footer-links { margin-bottom: 10px; }
 .footer-links a { margin: 0 10px; }
+/* =========================================
+   Mobile Responsiveness (For Phones & Tablets)
+   ========================================= */
+@media screen and (max-width: 768px) {
+  /* Header aur Navigation ko center mein laane ke liye */
+  .header {
+    flex-direction: column;
+    text-align: center;
+    padding: 15px 0;
+  }
+  
+  .nav-links {
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+
+  /* Cards ko single line (ek ke neeche ek) karne ke liye */
+  .post-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  /* Main headings ko screen ke hisaab se chhota karna */
+  h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  /* Screen ke kinaron par thoda space (padding) dena taaki text edge se na chipke */
+  .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}

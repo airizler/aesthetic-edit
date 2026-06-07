@@ -16,6 +16,4 @@ permalink: /about/
   <h3 style="margin-top: 30px; color: #222;">Our Mission</h3>
   <p>Our mission is to cut through the noise of endless online marketplaces and bring you hand-picked, high-quality recommendations. Whether you are a student looking for the perfect desk setup, a professional upgrading a home office, or someone who simply appreciates good design, we are here to help you make informed, confident decisions.</p>
 
-  <h3 style="margin-top: 30px; color: #222;">Connect With Us</h3>
-  <p>We are always exploring new gadgets and design trends. If you have any suggestions, questions, or just want to reach out, feel free to contact us at <strong>[Your Email Address]</strong>.</p>
 </div>

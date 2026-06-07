@@ -18,6 +18,4 @@ permalink: /disclaimer/
   <h3 style="margin-top: 30px; color: #222;">3. External Links</h3>
   <p>Through this website, you are able to link to other websites which are not under the control of The Aesthetic Edit. We have no control over the nature, content, and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.</p>
 
-  <h3 style="margin-top: 30px; color: #222;">4. Contact Us</h3>
-  <p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at <strong>[Your Email Address]</strong>.</p>
 </div>

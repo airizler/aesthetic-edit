@@ -17,6 +17,5 @@ permalink: /disclosure/
 
   <h3 style="margin-top: 30px; color: #222;">Our Editorial Promise</h3>
   <p>Our recommendations are always driven by quality, aesthetics, and functionality. We only recommend products that we genuinely believe deliver value to our readers. The presence of an affiliate link does not influence our editorial content, ratings, or the outcome of our product reviews.</p>
-
-  <p style="margin-top: 40px;">If you have any questions regarding our affiliate relationships, please do not hesitate to contact us at <strong>[Your Email Address]</strong>.</p>
+  
 </div>

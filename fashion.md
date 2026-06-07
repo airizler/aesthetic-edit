@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fashion Zone
-permalink: /fashion-zone/
+permalink: /fashion/
 ---
 
 <div style="margin-bottom: 40px; text-align: center;">

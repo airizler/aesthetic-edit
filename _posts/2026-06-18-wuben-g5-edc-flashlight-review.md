@@ -143,6 +143,6 @@ excerpt: "Looking for the perfect pocket flashlight? The WUBEN G5 features 400 l
   <ul style="line-height: 1.8; margin-bottom: 0; color: #0056b3; padding-left: 20px;">
     <li><a href="https://theaestheticedit.me/techizz/2026-06-15-apple-airtag-2nd-gen-review/" style="text-decoration: none; color: #0056b3;"><em>Apple AirTag 2nd Gen Review</em></a></li>
     <li><a href="https://theaestheticedit.me/techizz/maono-pd200x-review/" style="text-decoration: none; color: #0056b3;"><em>MAONO PD200X USB Microphone Review</em></a></li>
-    <li><em>Premium Minimalist Leather Wallets</em></li>
+    <li><a href="https://theaestheticedit.me/techizz/echo1/" style="text-decoration: none; color: #0056b3;"><em>Amazon Echo Dot (5th Gen) Review</em></a></li>
   </ul>
 </div>

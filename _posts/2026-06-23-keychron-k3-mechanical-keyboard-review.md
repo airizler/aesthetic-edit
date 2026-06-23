@@ -84,24 +84,24 @@ excerpt: "Upgrade your desk setup with the ultra-slim Keychron K3. Low-profile m
   <table style="width: 100%; border-collapse: collapse; text-align: left; line-height: 1.6; font-size: 0.95rem;">
     <tbody>
       <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px 10px; font-weight: bold; width: 40%; background-color: #f9f9f9;">Brand</td>
-        <td style="padding: 12px 10px; color: #555;">Keychron</td>
+        <td style="padding: 12px 10px; font-weight: bold; width: 40%; background-color: #f9f9f9; text-align: left;">Brand</td>
+        <td style="padding: 12px 10px; color: #555; text-align: left;">Keychron</td>
       </tr>
       <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9;">Layout Size</td>
-        <td style="padding: 12px 10px; color: #555;">75% Compact Layout (84 Keys)</td>
+        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9; text-align: left;">Layout Size</td>
+        <td style="padding: 12px 10px; color: #555; text-align: left;">75% Compact Layout (84 Keys)</td>
       </tr>
       <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9;">Connectivity</td>
-        <td style="padding: 12px 10px; color: #555;">Bluetooth 5.1 (Up to 3 Devices) & Type-C Wired</td>
+        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9; text-align: left;">Connectivity</td>
+        <td style="padding: 12px 10px; color: #555; text-align: left;">Bluetooth 5.1 (Up to 3 Devices) & Type-C Wired</td>
       </tr>
       <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9;">Switch Height</td>
-        <td style="padding: 12px 10px; color: #555;">Low-Profile Mechanical / Optical</td>
+        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9; text-align: left;">Switch Height</td>
+        <td style="padding: 12px 10px; color: #555; text-align: left;">Low-Profile Mechanical / Optical</td>
       </tr>
       <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9;">Compatibility</td>
-        <td style="padding: 12px 10px; color: #555;">macOS, Windows, iOS, Android, Linux</td>
+        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9; text-align: left;">Compatibility</td>
+        <td style="padding: 12px 10px; color: #555; text-align: left;">macOS, Windows, iOS, Android, Linux</td>
       </tr>
     </tbody>
   </table>
@@ -141,7 +141,7 @@ excerpt: "Upgrade your desk setup with the ultra-slim Keychron K3. Low-profile m
 <div style="background-color: #f4f6f8; padding: 25px; border-radius: 10px;">
   <h3 style="margin-top: 0; margin-bottom: 15px; font-size: 1.2rem;">🔄 Related Picks for Your Setup</h3>
   <ul style="line-height: 1.8; margin-bottom: 0; color: #0056b3; padding-left: 20px;">
-    <li><a href="https://theaestheticedit.me/techizz/2026-06-15-apple-airtag-2nd-gen-review/" style="text-decoration: none; color: #0056b3;"><em>Apple AirTag 2nd Gen Review</em></a></li>
+    <li><a href="https://theaestheticedit.me/techizz/apple-airtag-2nd-gen-review/" style="text-decoration: none; color: #0056b3;"><em>Apple AirTag 2nd Gen Review</em></a></li>
     <li><a href="https://theaestheticedit.me/techizz/maono-pd200x-review/" style="text-decoration: none; color: #0056b3;"><em>MAONO PD200X USB Microphone Review</em></a></li>
     <li><a href="https://theaestheticedit.me/techizz/echo1/" style="text-decoration: none; color: #0056b3;"><em>Amazon Echo Dot (5th Gen) Review</em></a></li>
     <li><a href="https://theaestheticedit.me/techizz/2026-06-18-wuben-g5-edc-flashlight-review/" style="text-decoration: none; color: #0056b3;"><em>WUBEN G5 EDC Flashlight Review</em></a></li>

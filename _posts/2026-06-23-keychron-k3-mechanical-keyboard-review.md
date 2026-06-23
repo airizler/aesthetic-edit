@@ -3,7 +3,7 @@ layout: post
 title: "Keychron K3 Review: The Ultimate Minimalist Mechanical Keyboard"
 categories: ["Techizz"]
 image: "/pin_images/kbrd/kbrd_main.png"
-excerpt: "Upgrade your desk setup with the ultra-slim Keychron K3. Featuring low-profile mechanical switches, wireless pairing, and a sleek minimalist design."
+excerpt: "Looking for the perfect minimalist keyboard? The Keychron K3 features low-profile switches, wireless pairing, and a sleek aluminum body..."
 ---
 
 <div style="text-align: center; margin-bottom: 20px;">
@@ -84,24 +84,24 @@ excerpt: "Upgrade your desk setup with the ultra-slim Keychron K3. Featuring low
   <table style="width: 100%; border-collapse: collapse; text-align: left; line-height: 1.6; font-size: 0.95rem;">
     <tbody>
       <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px 10px; font-weight: bold; width: 40%; background-color: #f9f9f9; text-align: left;">Brand</td>
-        <td style="padding: 12px 10px; color: #555; text-align: left;">Keychron</td>
+        <td style="padding: 12px 10px; font-weight: bold; width: 40%; background-color: #f9f9f9;">Brand</td>
+        <td style="padding: 12px 10px; color: #555;">Keychron</td>
       </tr>
       <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9; text-align: left;">Layout Size</td>
-        <td style="padding: 12px 10px; color: #555; text-align: left;">75% Compact Layout (84 Keys)</td>
+        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9;">Layout Size</td>
+        <td style="padding: 12px 10px; color: #555;">75% Compact Layout (84 Keys)</td>
       </tr>
       <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9; text-align: left;">Connectivity</td>
-        <td style="padding: 12px 10px; color: #555; text-align: left;">Bluetooth 5.1 (Up to 3 Devices) & Type-C Wired</td>
+        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9;">Connectivity</td>
+        <td style="padding: 12px 10px; color: #555;">Bluetooth 5.1 (Up to 3 Devices) & Type-C Wired</td>
       </tr>
       <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9; text-align: left;">Switch Height</td>
-        <td style="padding: 12px 10px; color: #555; text-align: left;">Low-Profile Mechanical / Optical</td>
+        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9;">Switch Height</td>
+        <td style="padding: 12px 10px; color: #555;">Low-Profile Mechanical / Optical</td>
       </tr>
       <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9; text-align: left;">Compatibility</td>
-        <td style="padding: 12px 10px; color: #555; text-align: left;">macOS, Windows, iOS, Android, Linux</td>
+        <td style="padding: 12px 10px; font-weight: bold; background-color: #f9f9f9;">Compatibility</td>
+        <td style="padding: 12px 10px; color: #555;">macOS, Windows, iOS, Android, Linux</td>
       </tr>
     </tbody>
   </table>

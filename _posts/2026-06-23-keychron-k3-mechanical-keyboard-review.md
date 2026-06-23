@@ -3,7 +3,7 @@ layout: post
 title: "Keychron K3 Review: The Ultimate Minimalist Mechanical Keyboard"
 categories: ["Techizz"]
 image: "/pin_images/kbrd/kbrd_main.png"
-excerpt: "Upgrade your desk setup with the ultra-slim Keychron K3. Low-profile mechanical switches, wireless multi-device pairing, and an aesthetic minimalist design. ⭐⭐⭐⭐⭐ 4.8/5 Rating"
+excerpt: "Upgrade your desk setup with the ultra-slim Keychron K3. Featuring low-profile mechanical switches, wireless pairing, and a sleek minimalist design."
 ---
 
 <div style="text-align: center; margin-bottom: 20px;">
@@ -144,6 +144,6 @@ excerpt: "Upgrade your desk setup with the ultra-slim Keychron K3. Low-profile m
     <li><a href="https://theaestheticedit.me/techizz/apple-airtag-2nd-gen-review/" style="text-decoration: none; color: #0056b3;"><em>Apple AirTag 2nd Gen Review</em></a></li>
     <li><a href="https://theaestheticedit.me/techizz/maono-pd200x-review/" style="text-decoration: none; color: #0056b3;"><em>MAONO PD200X USB Microphone Review</em></a></li>
     <li><a href="https://theaestheticedit.me/techizz/echo1/" style="text-decoration: none; color: #0056b3;"><em>Amazon Echo Dot (5th Gen) Review</em></a></li>
-    <li><a href="https://theaestheticedit.me/techizz/2026-06-18-wuben-g5-edc-flashlight-review/" style="text-decoration: none; color: #0056b3;"><em>WUBEN G5 EDC Flashlight Review</em></a></li>
+    <li><a href="https://theaestheticedit.me/techizz/wuben-g5-edc-flashlight-review/" style="text-decoration: none; color: #0056b3;"><em>WUBEN G5 EDC Flashlight Review</em></a></li>
   </ul>
 </div>
